@@ -4,7 +4,7 @@
 ## Requirements
 
 
-1. Download the chromedriver (Look in your google chrome settings which browser version you use and download the driver accordingly. )
+1. Download the chromedriver (Look in your google chrome settings which browser version you use and download the driver accordingly)
    
 
 2. Have an existing letterboxd account
