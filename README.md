@@ -1,6 +1,6 @@
 ## Send friend requests automatically with this script on letterboxd.com 
 
-#### If you want to follow 80k people on letterboxd like this one dude, this is the right script for you. The site limits your requests after 400 though.
+#### If you want to follow 80k people on letterboxd, this is the right script for you. The site limits your requests after 400 though.
 
 
 <br> 
