@@ -50,11 +50,6 @@ ________________________________________________________________________________
 <br />
 
 
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/MaximilianFreitag/Zufallswort.svg)](https://starchart.cc/MaximilianFreitag/Zufallswort)
-
-
 
 
 
