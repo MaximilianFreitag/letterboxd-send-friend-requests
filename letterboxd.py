@@ -5,7 +5,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
 
-url = 'https://letterboxd.com/members/popular/this/week/page/20/'
+url = 'https://letterboxd.com/members/popular/this/week/page/2/'
 
 username = 'YOUR_LETTERBOX_USERNAME_HERE'
 password = 'YOUR_LETTERBOX_PASSWORD_HERE'
