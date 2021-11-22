@@ -10,7 +10,7 @@ url = 'https://letterboxd.com/members/popular/this/week/page/20/'
 username = 'YOUR_LETTERBOX_USERNAME_HERE'
 password = 'YOUR_LETTERBOX_PASSWORD_HERE'
 
-driver = webdriver.Chrome('/Users/wiifreaki/Desktop/chromedriver')
+driver = webdriver.Chrome('/PATH/TO/YOUR/CHROMEDRIVER/HERE')
 
 
 #Script for logging in to the site
