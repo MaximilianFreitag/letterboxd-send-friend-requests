@@ -1,4 +1,4 @@
-## Send 400 friend requests automatically (the max limit each day) on letterboxd.com 
+## Send friend requests automatically with this script on letterboxd.com 
 
 <!-- Requirements -->
 ## Requirements
