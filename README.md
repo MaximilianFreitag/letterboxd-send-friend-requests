@@ -1,9 +1,11 @@
 ## Send friend requests automatically with this script on letterboxd.com 
 
+<br> 
+
 <!-- Requirements -->
 ## Requirements
 
-<br> 
+
 
 1. Download the chromedriver (Look in your google chrome settings which browser version you use and download the driver accordingly)
    
@@ -40,7 +42,9 @@ ________________________________________________________________________________
 <br />
 <br />
 <br />
-
+<br />
+<br />
+<br />
 
 
 ## Stargazers over time
