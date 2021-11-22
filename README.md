@@ -3,6 +3,7 @@
 <!-- Requirements -->
 ## Requirements
 
+<br> 
 
 1. Download the chromedriver (Look in your google chrome settings which browser version you use and download the driver accordingly)
    
@@ -25,12 +26,10 @@ ________________________________________________________________________________
 
 2. Open the file in your text editor
    
-3. Type in your username and password and the path to your chromedriver into the script and save it
+3. Type in your username and password and the path to your chromedriver into the script and save it (Everything in all caps)
 
-4. Run the script with
-   ```sh
-   python letterboxd.py
-   ```
+4. Run the python script 
+   
 
 
 <br> 
@@ -42,16 +41,7 @@ ________________________________________________________________________________
 <br />
 <br />
 
-<!-- Current bugs -->
-## Current bugs
 
-When you import the library you will see three words as an output. Just ignore them.
-
-
-<br />
-<br />
-<br />
-<br />
 
 ## Stargazers over time
 
@@ -63,7 +53,7 @@ When you import the library you will see three words as an output. Just ignore t
 
 <br />
 <br />
-#Generator #Pip install #deutsch #zufällig #Wörter #duden 
+#letterboxd #script #friendrequest #automate #ratelimit #toomany
 <br />
 <br />
 
